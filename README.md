@@ -1,14 +1,3 @@
-<h1 style="text-align:center;">Nossos Projetos</h1>
-
-<div style="display:block;margin:auto;">
-	<div style="display:flex;flex-direction:row;justify-content:center;align-items:center">
-		<figure>
-			<img style="width:350px" src="https://raw.githubusercontent.com/ezequielsousa-devbr/idawebdeveloper/V1.2.0/assets/img/screenshot-ipad-desktop.png" alt="ida webdevelopers" />
-			<figcaption style="text-align:center;">Ida Webdevelopers</figcaption>
-		</figure>
-		<figure>
-			<img style="width:350px" src="https://raw.githubusercontent.com/ezequielsousa-devbr/hamburgerking/main/assets/arquivos/imagens/screenshot-hamburgerking-main.png" alt="hamburgueria" />
-			<figcaption style="text-align:center;">Hamburgueria</figcaption>
-		</figure>
-	</div>
-</div>
+<h1>Nossos Projetos</h1>
+<p><a href="https://github.com/ezequielsousa-devbr/idawebdeveloper" target="_blank">ezequielsousa-devbr/idawebdeveloper</a></p>
+<p><a href="https://github.com/ezequielsousa-devbr/hamburgerking" target="_blank">ezequielsousa-devbr/hamburgerking</a></p>
